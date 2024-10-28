@@ -6,5 +6,3 @@ for i in range(1, number + 1):  # loop between 1 and number
     if number % i == 0:  # check if 'i' is a divisor of 'number'
         print(i, end=" ")
 print()
-
-//push1
