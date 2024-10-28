@@ -7,4 +7,4 @@ for i in range(1, number + 1):  # loop between 1 and number
         print(i, end=" ")
 print()
 
-//push
+//push1
